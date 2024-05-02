@@ -1,1 +1,0 @@
-# Lab.-Sistema-Operacional
